@@ -1,0 +1,11 @@
+Input1.txt: A balanced test with all types of orders
+
+Input2.txt: A scaled version of Input1 with a greater number of orders and more resources
+
+Input3.txt: OVC cancel action test
+ 
+Input4.txt: High number of orders with limited resources
+
+Input5.txt: Testing COMBO bonus
+
+Input6.txt: 
